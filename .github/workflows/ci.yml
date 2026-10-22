@@ -1,0 +1,51 @@
+name: Application checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  build:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: '0.7.8'
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: apps/web/package-lock.json
+      - run: npm ci --no-audit --no-fund
+        working-directory: apps/web
+      - run: npm run build
+        working-directory: apps/web
+      - run: uv sync --extra engine --locked
+      - name: Verify the application and workspace backup
+        shell: bash
+        run: |
+          uv run --no-sync python - <<'PY'
+          import tempfile
+          from pathlib import Path
+          from neurostudio.core.templates import template
+          from neurostudio.compiler import compile_project, export_run
+          from neurostudio.engine.portable import train, inference
+          from neurostudio.storage import Store
+          from neurostudio.backup import backup_workspace
+          with tempfile.TemporaryDirectory() as directory:
+              root=Path(directory)/'workspace'
+              store=Store(root)
+              project=template()
+              store.create(project.model_dump())
+              run=root/'runs'/'demo'
+              spec=compile_project(project,run/'compiled-project')
+              train(spec,{'kind':'iris','hash':'demo'},run)
+              assert inference(run)
+              assert export_run(run,root/'exports'/'demo').is_file()
+              assert Path(backup_workspace(root,Path(directory)/'backup.zip')['path']).is_file()
+          PY
+      - name: Build the Python wheel
+        run: uv build --wheel

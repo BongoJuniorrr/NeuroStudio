@@ -1,0 +1,23 @@
+{
+  "name": "neurostudio-web",
+  "version": "0.0.1-beta.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build"
+  },
+  "dependencies": {
+    "@xyflow/react": "12.6.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "recharts": "2.15.3",
+    "lucide-react": "0.511.0"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.4",
+    "@types/react-dom": "19.1.5",
+    "typescript": "5.8.3",
+    "vite": "6.3.5"
+  }
+}

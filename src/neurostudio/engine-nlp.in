@@ -1,0 +1,14 @@
+transformers==4.51.3
+peft==0.15.2
+accelerate==1.6.0
+tokenizers==0.21.1
+huggingface-hub==0.30.2
+regex==2024.11.6
+requests==2.32.3
+tqdm==4.67.1
+pyyaml==6.0.2
+packaging==24.2
+charset-normalizer==3.4.1
+idna==3.10
+urllib3==2.4.0
+certifi==2025.1.31

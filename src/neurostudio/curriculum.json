@@ -1,0 +1,1173 @@
+{
+  "syllabus": "IOAI-2026",
+  "source": "Public course pathways with original LAILA practice activities; source links per lesson.",
+  "topics": [
+    {
+      "id": "F01",
+      "name": "Python Basics",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "data"
+    },
+    {
+      "id": "F02",
+      "name": "NumPy and Pandas",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "data"
+    },
+    {
+      "id": "F03",
+      "name": "Matplotlib and Seaborn",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "data"
+    },
+    {
+      "id": "F04",
+      "name": "Scikit-learn",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "data"
+    },
+    {
+      "id": "F05",
+      "name": "PyTorch Basics",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "F06",
+      "name": "Tensor Manipulation",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "F07",
+      "name": "CPU and GPU Training",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "F08",
+      "name": "Linear Regression",
+      "status": "curated",
+      "evidence": [
+        "https://developers.google.com/machine-learning/crash-course/linear-regression"
+      ],
+      "owner": "LAILA",
+      "lesson": "regression"
+    },
+    {
+      "id": "F09",
+      "name": "Logistic Regression",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "classifiers"
+    },
+    {
+      "id": "F10",
+      "name": "L1 and L2 Regularization",
+      "status": "curated",
+      "evidence": [
+        "https://developers.google.com/machine-learning/crash-course/linear-regression"
+      ],
+      "owner": "LAILA",
+      "lesson": "regression"
+    },
+    {
+      "id": "F11",
+      "name": "K-Nearest Neighbors",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "classifiers"
+    },
+    {
+      "id": "F12",
+      "name": "Decision Trees",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "classifiers"
+    },
+    {
+      "id": "F13",
+      "name": "Ensembles",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "classifiers"
+    },
+    {
+      "id": "F14",
+      "name": "Support Vector Machines",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "classifiers"
+    },
+    {
+      "id": "F15",
+      "name": "K-Means",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson12.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "clustering"
+    },
+    {
+      "id": "F16",
+      "name": "PCA",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson12.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "clustering"
+    },
+    {
+      "id": "F17",
+      "name": "t-SNE and UMAP",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson12.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "clustering"
+    },
+    {
+      "id": "F18",
+      "name": "Advanced Clustering",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson12.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "clustering"
+    },
+    {
+      "id": "F19",
+      "name": "Evaluation Metrics",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "validation"
+    },
+    {
+      "id": "F20",
+      "name": "Underfitting and Overfitting",
+      "status": "curated",
+      "evidence": [
+        "https://developers.google.com/machine-learning/crash-course/linear-regression"
+      ],
+      "owner": "LAILA",
+      "lesson": "regression"
+    },
+    {
+      "id": "F21",
+      "name": "Hyperparameter Tuning",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "validation"
+    },
+    {
+      "id": "F22",
+      "name": "Cross-Validation",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "validation"
+    },
+    {
+      "id": "F23",
+      "name": "Confusion Matrix and ROC",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "validation"
+    },
+    {
+      "id": "F24",
+      "name": "Feature Engineering",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "data"
+    },
+    {
+      "id": "F25",
+      "name": "Data Processing",
+      "status": "curated",
+      "evidence": [
+        "https://inria.github.io/scikit-learn-mooc/"
+      ],
+      "owner": "LAILA",
+      "lesson": "data"
+    },
+    {
+      "id": "D01",
+      "name": "Perceptron",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D02",
+      "name": "Gradient Descent",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D03",
+      "name": "Backpropagation",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D04",
+      "name": "Activation Functions",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D05",
+      "name": "Loss Functions",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D06",
+      "name": "MLP",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D07",
+      "name": "Embeddings",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "D08",
+      "name": "Pooling",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "vision"
+    },
+    {
+      "id": "D09",
+      "name": "Attention",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "D10",
+      "name": "Transformers",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "D11",
+      "name": "Autoencoders",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson15.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "generation"
+    },
+    {
+      "id": "D12",
+      "name": "SGD and Mini-batch",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D13",
+      "name": "Adam and AdamW",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D14",
+      "name": "Convergence and Learning Rates",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D15",
+      "name": "Dropout, Early Stopping, Weight Decay",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D16",
+      "name": "Weight Initialization",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D17",
+      "name": "Batch Normalization",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/basics/intro.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "torch"
+    },
+    {
+      "id": "D18",
+      "name": "Full and PEFT Finetuning",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "C01",
+      "name": "Convolutional Layers",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "vision"
+    },
+    {
+      "id": "C02",
+      "name": "Image Classification",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "vision"
+    },
+    {
+      "id": "C03",
+      "name": "Object Detection",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/intermediate/torchvision_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "annotations"
+    },
+    {
+      "id": "C04",
+      "name": "Image Segmentation",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/intermediate/torchvision_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "annotations"
+    },
+    {
+      "id": "C05",
+      "name": "Pretrained Vision Encoders",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "vision"
+    },
+    {
+      "id": "C06",
+      "name": "Image Augmentation",
+      "status": "curated",
+      "evidence": [
+        "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "vision"
+    },
+    {
+      "id": "C07",
+      "name": "GANs",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson15.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "generation"
+    },
+    {
+      "id": "C08",
+      "name": "Self-supervised Vision",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/audio-course/chapter1/introduction"
+      ],
+      "owner": "LAILA",
+      "lesson": "multimodal"
+    },
+    {
+      "id": "C09",
+      "name": "CLIP",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/audio-course/chapter1/introduction"
+      ],
+      "owner": "LAILA",
+      "lesson": "multimodal"
+    },
+    {
+      "id": "C10",
+      "name": "Diffusion",
+      "status": "curated",
+      "evidence": [
+        "https://course.fast.ai/Lessons/lesson15.html"
+      ],
+      "owner": "LAILA",
+      "lesson": "generation"
+    },
+    {
+      "id": "N01",
+      "name": "Text Classification",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "N02",
+      "name": "Pretrained Text Encoders",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "N03",
+      "name": "Language Modeling",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter7/6"
+      ],
+      "owner": "LAILA",
+      "lesson": "sequences"
+    },
+    {
+      "id": "N04",
+      "name": "Encoder-Decoder",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter7/6"
+      ],
+      "owner": "LAILA",
+      "lesson": "sequences"
+    },
+    {
+      "id": "N05",
+      "name": "Pretrained Language Models",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/llm-course/chapter1/1"
+      ],
+      "owner": "LAILA",
+      "lesson": "text"
+    },
+    {
+      "id": "N06",
+      "name": "HuBERT",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/audio-course/chapter1/introduction"
+      ],
+      "owner": "LAILA",
+      "lesson": "multimodal"
+    },
+    {
+      "id": "N07",
+      "name": "Audio Models",
+      "status": "curated",
+      "evidence": [
+        "https://huggingface.co/learn/audio-course/chapter1/introduction"
+      ],
+      "owner": "LAILA",
+      "lesson": "multimodal"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "data",
+      "title": "Dữ liệu và Python",
+      "title_en": "Data and Python",
+      "goal": "Quan sát một bảng dữ liệu trước khi chọn mô hình.",
+      "goal_en": "Inspect a dataset before choosing a model.",
+      "steps": [
+        "Mở demo Iris và khám phá các cột.",
+        "Chọn bốn đặc trưng, giữ target riêng.",
+        "Kiểm tra missing values và phân bố lớp."
+      ],
+      "steps_en": [
+        "Open the Iris demo and explore its columns.",
+        "Select four features and keep the target separate.",
+        "Inspect missing values and class balance."
+      ],
+      "question": "Vì sao không đưa cột nhãn vào features?",
+      "question_en": "Why exclude the target from features?",
+      "choices": [
+        "Nhãn sẽ làm rò rỉ đáp án.",
+        "Giúp bảng nhỏ hơn mà không ảnh hưởng kết quả."
+      ],
+      "choices_en": [
+        "It would leak the answer.",
+        "Only to make the table smaller."
+      ],
+      "correct": 0,
+      "answer": "Target chứa điều cần dự đoán; chỉ được dùng để học hoặc chấm kết quả.",
+      "answer_en": "The target is what we predict; use it for fitting or scoring, never as an input feature.",
+      "template": "iris",
+      "topics": [
+        "F01",
+        "F02",
+        "F03",
+        "F04",
+        "F24",
+        "F25"
+      ],
+      "source": {
+        "title": "Inria · scikit-learn MOOC",
+        "url": "https://inria.github.io/scikit-learn-mooc/",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from sklearn.datasets import load_iris\ndata = load_iris(as_frame=True)\nprint(data.data.describe())",
+      "exercise": "Mở Iris, ghi nhận 150 dòng, bốn đặc trưng và ba lớp. Xem giá trị thiếu, train và export. Chạy inference.py trong thư mục giải nén, so sánh dự đoán với ứng dụng.",
+      "exercise_en": "Open Iris. Record 150 rows, four features and three classes. Inspect missing values, train once and export. Run inference.py from the extracted export; compare its prediction to the app."
+    },
+    {
+      "id": "regression",
+      "title": "Dự đoán một con số",
+      "title_en": "Predicting a number",
+      "goal": "Đọc RMSE, MAE và R² trên cùng một split.",
+      "goal_en": "Read RMSE, MAE and R² on one fixed split.",
+      "steps": [
+        "Mở demo Diabetes / Ridge.",
+        "Train với alpha=1 rồi alpha=10.",
+        "So sánh validation, residuals và độ lệch trên scatter plot."
+      ],
+      "steps_en": [
+        "Open the Diabetes / Ridge demo.",
+        "Train with alpha=1, then alpha=10.",
+        "Compare validation scores, residuals and scatter plots."
+      ],
+      "question": "Có nên chọn alpha bằng test score không?",
+      "question_en": "Should test scores select alpha?",
+      "choices": [
+        "Không; chọn bằng validation/CV.",
+        "Có; test luôn phản ánh tốt nhất."
+      ],
+      "choices_en": [
+        "No; select using validation/CV.",
+        "Yes; test always gives the best selection."
+      ],
+      "correct": 0,
+      "answer": "Giữ test cho lần đánh giá cuối; chọn tham số bằng validation hoặc CV trên train.",
+      "answer_en": "Reserve test for final assessment; select settings with validation or train-only CV.",
+      "template": "regression",
+      "topics": [
+        "F08",
+        "F10",
+        "F20"
+      ],
+      "source": {
+        "title": "Google · ML Crash Course",
+        "url": "https://developers.google.com/machine-learning/crash-course/linear-regression",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from sklearn.linear_model import Ridge\nmodel = Ridge(alpha=1.0)\n# Fit only X_train, y_train",
+      "exercise": "Train Diabetes Ridge với alpha 1 và 10, giữ nguyên split seed. Chọn RMSE chính, theo dõi MAE và R2. So sánh validation rồi đánh giá test một lần trên run đã chọn.",
+      "exercise_en": "Train Diabetes Ridge with alpha 1 and 10 using the same split seed. Select RMSE as primary and watch MAE and R2. Compare validation results, then evaluate test once for the selected run."
+    },
+    {
+      "id": "classifiers",
+      "title": "Chọn thuật toán phân loại",
+      "title_en": "Choosing a classifier",
+      "goal": "So sánh các giả định của mô hình trên cùng dữ liệu.",
+      "goal_en": "Compare model assumptions on the same data.",
+      "steps": [
+        "Mở demo Iris Random Forest.",
+        "Train rồi đổi sang KNN hoặc SVM.",
+        "Giữ seed/split, quan sát F1 và confusion matrix."
+      ],
+      "steps_en": [
+        "Open the Iris Random Forest demo.",
+        "Train, then try KNN or SVM.",
+        "Keep the seed/split; compare F1 and confusion matrices."
+      ],
+      "question": "Accuracy cao có luôn đủ khi lớp mất cân bằng?",
+      "question_en": "Is accuracy sufficient for imbalanced classes?",
+      "choices": [
+        "Không; cần F1, recall và từng lớp.",
+        "Có; chỉ một metric là đủ."
+      ],
+      "choices_en": [
+        "No; inspect F1, recall and class-level results.",
+        "Yes; one metric is enough."
+      ],
+      "correct": 0,
+      "answer": "Một mô hình có thể đoán lớp phổ biến liên tục mà accuracy vẫn cao.",
+      "answer_en": "Always predicting the majority class can produce misleadingly high accuracy.",
+      "template": "iris_rf",
+      "topics": [
+        "F09",
+        "F11",
+        "F12",
+        "F13",
+        "F14"
+      ],
+      "source": {
+        "title": "Inria · scikit-learn MOOC",
+        "url": "https://inria.github.io/scikit-learn-mooc/",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from sklearn.ensemble import RandomForestClassifier\nmodel = RandomForestClassifier(n_estimators=100, random_state=42)",
+      "exercise": "Train Iris Logistic Regression và Random Forest với cùng split. So sánh accuracy, macro F1 và confusion matrix. Giải thích một lỗi theo lớp, export model đã chọn.",
+      "exercise_en": "Train Iris Logistic Regression and Random Forest with the same split. Compare accuracy, macro F1 and the confusion matrix. Explain one class-specific error and export the selected model."
+    },
+    {
+      "id": "validation",
+      "title": "Đánh giá không rò rỉ dữ liệu",
+      "title_en": "Evaluation without leakage",
+      "goal": "Phân biệt train, validation, CV và test.",
+      "goal_en": "Distinguish train, validation, CV and test.",
+      "steps": [
+        "Train demo Iris.",
+        "Chạy CV 3 fold trong Training Lab.",
+        "Thử ba giá trị C với trial/time budget; chỉ sau đó đánh giá test."
+      ],
+      "steps_en": [
+        "Train the Iris demo.",
+        "Run 3-fold CV in Training Lab.",
+        "Search three C values with a trial/time budget; evaluate test afterwards."
+      ],
+      "question": "Scaler trong CV phải fit ở đâu?",
+      "question_en": "Where should a CV scaler be fitted?",
+      "choices": [
+        "Trong train của từng fold.",
+        "Trên toàn dataset trước CV."
+      ],
+      "choices_en": [
+        "On each fold’s training rows.",
+        "On the full dataset before CV."
+      ],
+      "correct": 0,
+      "answer": "Pipeline được refit trong mỗi fold, kể cả bước imputation và scaling.",
+      "answer_en": "Refit the entire pipeline inside every fold, including imputation and scaling.",
+      "template": "iris",
+      "topics": [
+        "F19",
+        "F21",
+        "F22",
+        "F23"
+      ],
+      "source": {
+        "title": "Inria · scikit-learn MOOC",
+        "url": "https://inria.github.io/scikit-learn-mooc/",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from sklearn.pipeline import make_pipeline\nfrom sklearn.preprocessing import StandardScaler\nfrom sklearn.linear_model import LogisticRegression\nmodel = make_pipeline(StandardScaler(), LogisticRegression())",
+      "exercise": "Nhập ba CSV riêng ở chế độ chia tập thủ công, kiểm tra số mẫu từng tập. Thử nhập lại với một dòng trùng giữa train và test, xác nhận bị từ chối. Không dùng test khi thay C.",
+      "exercise_en": "Import three distinct CSV files in manual split mode. Confirm the displayed split counts. Try a second import containing a duplicate row across train and test; verify that import is rejected. Keep test untouched while changing C."
+    },
+    {
+      "id": "clustering",
+      "title": "Khám phá cấu trúc dữ liệu",
+      "title_en": "Exploring data structure",
+      "goal": "Phân biệt clustering và hình chiếu hai chiều.",
+      "goal_en": "Distinguish clustering from a two-dimensional projection.",
+      "steps": [
+        "Mở Khám phá dữ liệu, chọn Iris và KMeans.",
+        "Đổi k từ 2 đến 4, so sánh silhouette và số cụm.",
+        "Thử PCA/t-SNE; không coi khoảng cách giữa nhóm là accuracy."
+      ],
+      "steps_en": [
+        "Open Data exploration with Iris and KMeans.",
+        "Try k=2 through 4; inspect silhouette and cluster counts.",
+        "Try PCA/t-SNE; projection distances are not accuracy."
+      ],
+      "question": "Cụm trong t-SNE có chứng minh các lớp tách biệt hoàn hảo?",
+      "question_en": "Do t-SNE groups prove perfect class separation?",
+      "choices": [
+        "Không; đó là phép chiếu khám phá.",
+        "Có; hình vẽ thay thế test score."
+      ],
+      "choices_en": [
+        "No; it is an exploratory projection.",
+        "Yes; the plot replaces test scores."
+      ],
+      "correct": 0,
+      "answer": "Projection và clustering trả lời câu hỏi khác nhau; silhouette đo cấu trúc trong feature space đã xử lý.",
+      "answer_en": "Projection and clustering answer different questions; silhouette describes structure in preprocessed feature space.",
+      "template": "exploration",
+      "topics": [
+        "F15",
+        "F16",
+        "F17",
+        "F18"
+      ],
+      "source": {
+        "title": "fast.ai · Mean shift clustering",
+        "url": "https://course.fast.ai/Lessons/lesson12.html",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from sklearn.cluster import KMeans\nfrom sklearn.decomposition import PCA\nclusters = KMeans(n_clusters=3, random_state=42, n_init=10)",
+      "exercise": "Khám phá Iris bằng PCA và KMeans k=3 rồi k=4. So sánh silhouette và kích thước cụm. Export phép khám phá và giải thích tại sao ID cụm không phải nhãn thật.",
+      "exercise_en": "Explore Iris with PCA and KMeans k=3, then k=4. Compare silhouette and cluster sizes. Export the fitted exploration and explain why cluster IDs are not ground-truth labels."
+    },
+    {
+      "id": "torch",
+      "title": "Mạng neural học như thế nào",
+      "title_en": "How neural networks learn",
+      "goal": "Liên hệ forward, loss, gradient và optimizer.",
+      "goal_en": "Connect forward passes, losses, gradients and optimizers.",
+      "steps": [
+        "Mở CNN demo và xem shape qua từng block.",
+        "Train ngắn với AdamW; xem loss theo epoch.",
+        "Đổi learning rate, mở gradient diagnostics và so sánh."
+      ],
+      "steps_en": [
+        "Open the CNN demo and inspect tensor shapes.",
+        "Train briefly with AdamW and inspect epoch loss.",
+        "Change learning rate, open gradient diagnostics and compare."
+      ],
+      "question": "Vì sao zero_grad trước backward mới?",
+      "question_en": "Why zero gradients before a new backward pass?",
+      "choices": [
+        "Gradient thường tích lũy qua các lần backward.",
+        "Để xóa trọng số đã học."
+      ],
+      "choices_en": [
+        "Gradients normally accumulate across backward passes.",
+        "To erase learned weights."
+      ],
+      "correct": 0,
+      "answer": "zero_grad xóa gradient, không xóa model parameters.",
+      "answer_en": "zero_grad clears gradients, not learned parameters.",
+      "template": "cifar10",
+      "topics": [
+        "F05",
+        "F06",
+        "F07",
+        "D01",
+        "D02",
+        "D03",
+        "D04",
+        "D05",
+        "D06",
+        "D12",
+        "D13",
+        "D14",
+        "D15",
+        "D16",
+        "D17"
+      ],
+      "source": {
+        "title": "PyTorch · Learn the Basics",
+        "url": "https://docs.pytorch.org/tutorials/beginner/basics/intro.html",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "import torch\nx = torch.tensor([2.0], requires_grad=True)\nloss = (x - 3).square().mean()\nloss.backward()\nprint(x.grad)",
+      "exercise": "Mở template CNN CIFAR, chọn Conv2D và xem output shape. Xóa rồi khôi phục một kết nối. Train hai epoch trên subset nhỏ, xem loss và macro F1 trước khi tăng giới hạn mẫu.",
+      "exercise_en": "Open the CIFAR CNN template. Select a Conv2D block and inspect output shape. Remove and restore one connection. Train two epochs on a small subset; watch loss and macro F1 before increasing the sample limit."
+    },
+    {
+      "id": "vision",
+      "title": "Nhận diện ảnh và transfer learning",
+      "title_en": "Image recognition and transfer learning",
+      "goal": "Quan sát convolution, pooling và pretrained features.",
+      "goal_en": "Inspect convolution, pooling and pretrained features.",
+      "steps": [
+        "Tạo demo ảnh hình học hoặc nhập bộ ảnh của bạn.",
+        "Xem Conv/Pool và feature maps trong CNN.",
+        "Thử ResNet pretrained, chỉ train head rồi so sánh validation."
+      ],
+      "steps_en": [
+        "Create the geometric-image demo or import images.",
+        "Inspect Conv/Pool and CNN feature maps.",
+        "Try a pretrained ResNet with a trainable head; compare validation."
+      ],
+      "question": "Augmentation ngẫu nhiên nên áp vào test?",
+      "question_en": "Should random augmentation affect test?",
+      "choices": [
+        "Không; test cần pipeline đánh giá cố định.",
+        "Có; càng ngẫu nhiên càng công bằng."
+      ],
+      "choices_en": [
+        "No; test needs a fixed evaluation pipeline.",
+        "Yes; more randomness is always fairer."
+      ],
+      "correct": 0,
+      "answer": "Augmentation phục vụ train; preprocessing cố định phải giống nhau ở validation/test/inference.",
+      "answer_en": "Use augmentation for training; deterministic preprocessing must agree across validation, test and inference.",
+      "template": "task:image_classification",
+      "topics": [
+        "C01",
+        "C02",
+        "C05",
+        "C06",
+        "D08"
+      ],
+      "source": {
+        "title": "PyTorch · Transfer learning",
+        "url": "https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from torchvision.models import resnet18, ResNet18_Weights\n# Explicit download of public pretrained weights:\n# model = resnet18(weights=ResNet18_Weights.DEFAULT)",
+      "exercise": "Nhập ảnh theo thư mục lớp với validation/test riêng. Chọn ResNet18 pretrained, đóng băng backbone. Train một epoch, xem F1, rồi mở backbone ở run mới với learning rate nhỏ. Export và thử ảnh mới.",
+      "exercise_en": "Import images with class folders and fixed validation/test partitions. Choose ResNet18 with pretrained weights and freeze the backbone. Train one epoch, inspect F1, then unfreeze for a separate low-learning-rate run. Export and predict a new image."
+    },
+    {
+      "id": "annotations",
+      "title": "Từ bounding box đến mask",
+      "title_en": "From bounding boxes to masks",
+      "goal": "Hiểu annotation và metric cho detection/segmentation.",
+      "goal_en": "Understand annotations and task-specific metrics.",
+      "steps": [
+        "Mở demo hình học có box/mask.",
+        "Train U-Net rồi so mask thật với dự đoán.",
+        "Xem IoU/Dice; thử detector và kiểm false positives."
+      ],
+      "steps_en": [
+        "Open the geometric box/mask demo.",
+        "Train U-Net and compare target/predicted masks.",
+        "Inspect IoU/Dice; try detection and inspect false positives."
+      ],
+      "question": "Resize ảnh mà không resize bbox/mask có đúng không?",
+      "question_en": "Can images be resized without updating boxes/masks?",
+      "choices": [
+        "Không; annotation sẽ lệch hệ tọa độ.",
+        "Có; model tự sửa annotation."
+      ],
+      "choices_en": [
+        "No; annotation coordinates would become inconsistent.",
+        "Yes; the model repairs annotations."
+      ],
+      "correct": 0,
+      "answer": "Ảnh và annotation phải cùng biến đổi hình học; mask nhãn dùng nearest-neighbor.",
+      "answer_en": "Apply geometry consistently to images and annotations; resize label masks with nearest-neighbor interpolation.",
+      "template": "task:segmentation",
+      "topics": [
+        "C03",
+        "C04"
+      ],
+      "source": {
+        "title": "PyTorch · Detection fine-tuning",
+        "url": "https://docs.pytorch.org/tutorials/intermediate/torchvision_tutorial.html",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "# Boxes: [x1, y1, x2, y2] in source-image pixels.\n# Masks: integer class IDs, not normalized RGB inputs.",
+      "exercise": "Tải Penn-Fudan, train U-Net trên subset nhỏ với BCE + Dice, chọn Dice chính. So sánh mask dự đoán và thật, thử BCE ở run mới. Giải thích AP50 cho box và Dice cho mask đo các đầu ra khác nhau.",
+      "exercise_en": "Download Penn-Fudan. Train U-Net on a small subset with BCE + Dice and Dice as primary. Inspect predicted masks beside truth, then compare with BCE in a new run. Explain why AP50 for boxes and Dice for masks measure different outputs."
+    },
+    {
+      "id": "text",
+      "title": "Từ token đến Transformer",
+      "title_en": "From tokens to Transformers",
+      "goal": "So sánh vocabulary train-only, attention và fine-tuning.",
+      "goal_en": "Compare train-only vocabulary, attention and fine-tuning.",
+      "steps": [
+        "Nhập CSV text/label hoặc tạo demo văn bản.",
+        "Train BiGRU/Transformer và xem confusion matrix.",
+        "Thử BERT/LoRA khi đã cài môi trường NLP; dự đoán câu mới."
+      ],
+      "steps_en": [
+        "Import a text/label CSV or create the text demo.",
+        "Train BiGRU/Transformer and inspect confusion matrices.",
+        "Try BERT/LoRA with the NLP engine; predict a new sentence."
+      ],
+      "question": "Vocabulary nên học từ test không?",
+      "question_en": "Should the vocabulary be fitted on test?",
+      "choices": [
+        "Không; chỉ fit trên train.",
+        "Có; để tránh unknown tokens."
+      ],
+      "choices_en": [
+        "No; fit it on train only.",
+        "Yes; to eliminate unknown tokens."
+      ],
+      "correct": 0,
+      "answer": "Tokenizer pretrained được cố định theo revision; vocabulary mới chỉ dùng dữ liệu train.",
+      "answer_en": "Pin pretrained tokenizer revisions; fit newly learned vocabulary using training data only.",
+      "template": "task:text_classification",
+      "topics": [
+        "D07",
+        "D09",
+        "D10",
+        "D18",
+        "N01",
+        "N02",
+        "N05"
+      ],
+      "source": {
+        "title": "Hugging Face · LLM Course",
+        "url": "https://huggingface.co/learn/llm-course/chapter1/1",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "from collections import Counter\ncounts = Counter(token for text in train_texts for token in text.lower().split())\n# Do not include validation/test texts.",
+      "exercise": "Tạo CSV text và label, train BiGRU với macro F1 chính và xem lỗi theo lớp. Cài profile NLP rồi thử BERT Tiny trên cùng dữ liệu. So sánh validation và inference từ export.",
+      "exercise_en": "Create a labelled text CSV with text and label columns. Train BiGRU with macro F1 primary; inspect class errors. Install the NLP profile and repeat with BERT Tiny on the same data. Compare validation scores and exported inference."
+    },
+    {
+      "id": "generation",
+      "title": "Tái tạo và sinh dữ liệu",
+      "title_en": "Reconstruction and generation",
+      "goal": "Đọc loss và quan sát mẫu sinh cùng nhau.",
+      "goal_en": "Inspect generated samples alongside losses.",
+      "steps": [
+        "Tạo demo autoencoder với hình học.",
+        "So sánh input và reconstruction.",
+        "Thử GAN/diffusion nhỏ; giữ seed và quan sát mode collapse hoặc nhiễu."
+      ],
+      "steps_en": [
+        "Create an autoencoder demo using geometric images.",
+        "Compare inputs and reconstructions.",
+        "Try a small GAN/diffusion model; keep seeds and inspect collapse/noise."
+      ],
+      "question": "Loss GAN thấp có bảo đảm ảnh đẹp?",
+      "question_en": "Does low GAN loss guarantee good images?",
+      "choices": [
+        "Không; cần xem mẫu và đánh giá phù hợp.",
+        "Có; chỉ cần giảm loss."
+      ],
+      "choices_en": [
+        "No; inspect samples and appropriate evaluations.",
+        "Yes; minimizing loss is sufficient."
+      ],
+      "correct": 0,
+      "answer": "Objective tối ưu và chất lượng cảm nhận khác nhau; không dùng loss để tuyên bố FID tốt.",
+      "answer_en": "Optimization objectives and perceptual quality differ; loss alone does not establish a good FID.",
+      "template": "workflow:autoencoder",
+      "topics": [
+        "D11",
+        "C07",
+        "C10"
+      ],
+      "source": {
+        "title": "fast.ai · Autoencoders",
+        "url": "https://course.fast.ai/Lessons/lesson15.html",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "# Reconstruction objective:\n# loss = (decoder(encoder(x)) - x).square().mean()",
+      "exercise": "Tạo demo tái tạo ảnh offline, train autoencoder rồi VAE với cùng split. So sánh MSE, MAE, PSNR và ảnh preview; mô tả độ mờ thay vì gọi là accuracy.",
+      "exercise_en": "Create the offline reconstruction demo. Train the convolutional autoencoder, then VAE with the same split. Compare MSE, MAE and PSNR plus image previews; describe blur rather than calling reconstruction accuracy."
+    },
+    {
+      "id": "multimodal",
+      "title": "Âm thanh và thị giác-ngôn ngữ",
+      "title_en": "Audio and vision-language",
+      "goal": "Nhận biết khác biệt giữa tín hiệu, embeddings và nhãn.",
+      "goal_en": "Distinguish signals, embeddings and labels.",
+      "steps": [
+        "Mở demo âm thanh hai tần số.",
+        "Quan sát spectrogram và dự đoán WAV mới.",
+        "Với CLIP, thử nhiều prompt cho cùng ảnh và so similarity."
+      ],
+      "steps_en": [
+        "Open the two-frequency audio demo.",
+        "Inspect spectrograms and classify a new WAV.",
+        "For CLIP, compare several prompts against one image."
+      ],
+      "question": "CLIP similarity có phải xác suất được calibration?",
+      "question_en": "Is CLIP similarity a calibrated probability?",
+      "choices": [
+        "Không; phụ thuộc prompt và tập ứng viên.",
+        "Có; luôn là xác suất khách quan."
+      ],
+      "choices_en": [
+        "No; it depends on prompts and candidates.",
+        "Yes; it is always an objective probability."
+      ],
+      "correct": 0,
+      "answer": "Thay candidate prompts có thể đổi phân phối softmax; đánh giá trên bài toán cụ thể.",
+      "answer_en": "Changing candidate prompts changes softmax scores; evaluate within the intended task.",
+      "template": "task:audio_classification",
+      "topics": [
+        "C08",
+        "C09",
+        "N06",
+        "N07"
+      ],
+      "source": {
+        "title": "Hugging Face · Audio Course",
+        "url": "https://huggingface.co/learn/audio-course/chapter1/introduction",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "import torch\nwave = torch.zeros(8000)\nspectrum = torch.stft(wave, n_fft=256, return_complex=True)",
+      "exercise": "Tải FSDD, train spectrogram CNN trên subset nhỏ, theo dõi macro F1 và confusion matrix. Thử một file PCM WAV. Adapter phân loại chữ số, không phiên âm lời nói tự do.",
+      "exercise_en": "Download FSDD and train the spectrogram CNN on a small subset. Watch macro F1 and inspect the confusion matrix. Predict a PCM WAV sample. Note that this adapter classifies digits and does not transcribe arbitrary speech."
+    },
+    {
+      "id": "sequences",
+      "title": "Dự đoán chuỗi và sinh văn bản",
+      "title_en": "Sequence prediction and text generation",
+      "goal": "Dùng causal masking, teacher forcing và split theo thời gian.",
+      "goal_en": "Use causal masking, teacher forcing and chronological splits.",
+      "steps": [
+        "Tạo demo language model hoặc chuỗi thời gian.",
+        "Giữ validation/test độc lập với train.",
+        "Thử context length và so metric; không dùng dữ liệu tương lai làm input."
+      ],
+      "steps_en": [
+        "Create a language-model or time-series demo.",
+        "Keep validation/test independent of train.",
+        "Change context length and compare; never feed future targets as inputs."
+      ],
+      "question": "Causal mask ngăn điều gì?",
+      "question_en": "What does a causal mask prevent?",
+      "choices": [
+        "Nhìn token tương lai khi dự đoán token tiếp theo.",
+        "Nhìn mọi token trong ngữ cảnh."
+      ],
+      "choices_en": [
+        "Seeing future tokens while predicting the next token.",
+        "Seeing all context tokens."
+      ],
+      "correct": 0,
+      "answer": "Train loss có thể thấp giả tạo nếu mô hình nhìn đáp án tương lai.",
+      "answer_en": "Training loss can be misleadingly low if future answers are visible.",
+      "template": "workflow:causal_lm",
+      "topics": [
+        "N03",
+        "N04"
+      ],
+      "source": {
+        "title": "Hugging Face · Training a causal language model",
+        "url": "https://huggingface.co/learn/llm-course/chapter7/6",
+        "checked": "2026-10-22",
+        "usage": "Linked public course; LAILA activities and explanations are original."
+      },
+      "code": "import torch\nmask = torch.triu(torch.ones(8, 8, dtype=torch.bool), diagonal=1)\n# True entries hide future positions.",
+      "exercise": "Tạo demo sinh văn bản, train causal GRU và sinh từ prompt ngắn. Thử seq2seq ở run mới, theo dõi BLEU, ROUGE-L cùng perplexity. So sánh văn bản sinh với tham chiếu, không chọn model bằng test.",
+      "exercise_en": "Create the text-generation demo. Train a causal GRU and generate from a short prompt. In a new seq2seq run, select BLEU and ROUGE-L alongside perplexity. Compare generated continuations to references; do not use test for model selection."
+    }
+  ],
+  "coverage_note": "Curated learning resources do not certify full IOAI implementation or learner proficiency."
+}

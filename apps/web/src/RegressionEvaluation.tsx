@@ -1,0 +1,7 @@
+import {t} from './i18n';
+import React from 'react';
+import {ScatterChart,Scatter,CartesianGrid,XAxis,YAxis,Tooltip,ResponsiveContainer} from 'recharts';
+type Any=any;
+export function RegressionEvaluation({result}:Any){
+ return <><div className="stats three">{[['RMSE',result.rmse],['MAE',result.mae],['R²',result.r2]].map(([label,value])=><div className="stat" key={label}><span>{label}</span><strong>{Number(value).toFixed(4)}</strong></div>)}</div><section className="card"><h3>{t("Giá trị thật và dự đoán")}</h3><p className="fine">{t("Trục x: giá trị thật · trục y: dự đoán. R² có thể âm khi mô hình kém hơn dự đoán bằng trung bình.")}</p><div className="chart tall"><ResponsiveContainer width="100%" height="100%"><ScatterChart><CartesianGrid/><XAxis type="number" dataKey="actual" name={t("Thật")}/><YAxis type="number" dataKey="predicted" name={t("Dự đoán")}/><Tooltip cursor={{strokeDasharray:'3 3'}}/><Scatter data={result.predictions} fill="var(--accent)"/></ScatterChart></ResponsiveContainer></div></section><section className="card"><h3>{t("Sai số từng mẫu")}</h3><div className="table-scroll"><table><thead><tr><th>{t("Mẫu")}</th><th>{t("Thật")}</th><th>{t("Dự đoán")}</th><th>Residual</th></tr></thead><tbody>{result.predictions.slice(0,100).map((p:Any)=><tr key={p.index}><td>{p.index}</td><td>{p.actual.toFixed(3)}</td><td>{p.predicted.toFixed(3)}</td><td>{p.residual.toFixed(3)}</td></tr>)}</tbody></table></div></section></>
+}

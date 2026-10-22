@@ -1,0 +1,23 @@
+{
+  "version": "0.7.8",
+  "files": {
+    "linux-x64": {
+      "filename": "uv-0.7.8-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "url": "https://files.pythonhosted.org/packages/06/36/0e7943d9415560aa9fdd775d0bb4b9c06b69c543f0647210e5b84776658b/uv-0.7.8-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "digests": {
+        "blake2b_256": "06360e7943d9415560aa9fdd775d0bb4b9c06b69c543f0647210e5b84776658b",
+        "md5": "d2c31a51e5f7e7fa998f08cf12b14d44",
+        "sha256": "81ac0bb371979f48d1293f9c1bee691680ea6a724f16880c8f76718f5ff50049"
+      }
+    },
+    "windows-x64": {
+      "filename": "uv-0.7.8-py3-none-win_amd64.whl",
+      "url": "https://files.pythonhosted.org/packages/4b/80/5c78a9adc50fa3b7cca3a0c1245dff8c74d906ab53c3503b1f8133243930/uv-0.7.8-py3-none-win_amd64.whl",
+      "digests": {
+        "blake2b_256": "4b805c78a9adc50fa3b7cca3a0c1245dff8c74d906ab53c3503b1f8133243930",
+        "md5": "3c333259d5c62c5a78b39f90c275ca23",
+        "sha256": "b5b62ca8a1bea5fdbf8a6372eabb03376dffddb5d139688bbb488c0719fa52fc"
+      }
+    }
+  }
+}
